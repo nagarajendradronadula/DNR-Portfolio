@@ -13,7 +13,7 @@ const About = () => {
         <div className="md:flex flex-wrap flex-col md:flex-row items-center mt-5 ">
           <div>
             <img
-              className="md:h-auto h-80 mr-16 flex" 
+              className="md:h-auto h-8 mr-16 flex" 
               src={AboutImg}
               alt="About Image"
             />
