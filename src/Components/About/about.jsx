@@ -23,11 +23,11 @@ const About = () => {
               <IoArrowForward size={40} className="mt-1" />
               <span className="w-96 md:text-3xl">
                 <h1 className="text-2xl md:text-3xl font-semibold leading-normal">
-                  Frontend Developer
+                  Full Stack Developer
                 </h1>
                 <p className="text-lg md:text-xl leading-relaxed">
-                  I am a Frontend Developer and have learnt HTML and CSS and
-                  have been using them in all of my web developing projects.
+                  I am a Full Stack Developer and have learnt MERN Stack (MongoDB, Express.js, React.js & Node.js) and
+                  have built many projects based on MERN Stack. Can look at them from my Github Profile.
                 </p>
               </span>
             </div>
@@ -36,15 +36,26 @@ const About = () => {
               <IoArrowForward size={40} className="mt-1" />
               <span className="w-96 md:text-3xl">
                 <h1 className="text-2xl md:text-3xl font-semibold leading-normal">
-                  Backend Developer
+                  Java Developer
                 </h1>
                 <p className="text-lg md:text-xl leading-relaxed">
-                  I am a Backend Developer and have learnt NodeJS and Express
-                  and have been using them in all of my web developing projects.
+                  I am a Java Developer and have learnt Java from many sources like Youtube and Scaler. And I have proved my Java and DSA skills on Leetcode through solving 100+ Problems in 100+ days.
                 </p>
               </span>
             </div>
 
+            <div className="flex gap-3 py-4">
+              <IoArrowForward size={40} className="mt-1" />
+              <span className="w-96 md:text-3xl">
+                <h1 className="text-2xl md:text-3xl font-semibold leading-normal">
+                  Python Developer
+                </h1>
+                <p className="text-lg md:text-xl leading-relaxed">
+                  I am a Python Developer and have learnt Python through many online sources like Youtube and Scaler. And I have built some mini projects to practice my Python and Problem Solving skills.
+                </p>
+              </span>
+            </div>
+            
             <div className="flex gap-3 py-4">
               <IoArrowForward size={40} className="mt-1" />
               <span className="w-96 md:text-3xl">
@@ -54,7 +65,7 @@ const About = () => {
                 <p className="text-lg md:text-xl leading-relaxed">
                   I am a Database Developer and have learnt MySQL and MongoDB
                   and have been using them in most of my web developing
-                  projects.
+                  projects to store and manage data of the users using my projects.
                 </p>
               </span>
             </div>
