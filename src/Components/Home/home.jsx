@@ -11,8 +11,8 @@ const home = () => {
         <p className="text-sm md:text-2xl tracking-tight mt-5">
           MERN STACK DEVELOPER | JAVA | PYTHON
         </p>
-        <button onClick="#Contact" className="mt-5 md:md-10 text-black p-y2 p-x3 text-sm md:text-lg md:p-y2 md:p-x4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg[#465697] border-solid bg-[#CAC9C7] p-3">
-          Contact Me!
+        <button className="mt-5 md:md-10 text-black p-y2 p-x3 text-sm md:text-lg md:p-y2 md:p-x4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg[#465697] border-solid bg-[#CAC9C7] p-3">
+          <a href="#Contact">Contact Me!</a>
         </button>
       </div>
       <div className="flex justify-center align-center mr-16">
