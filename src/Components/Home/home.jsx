@@ -1,5 +1,6 @@
 import React from "react";
 import profileImage from "../../assets/IMG_20220813_192157-modified-removebg-preview-modified.png";
+import Resume from "../../assets/DNR-Resume-4.pdf"
 
 const home = () => {
   return (
